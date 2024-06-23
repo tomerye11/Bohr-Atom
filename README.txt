@@ -2,7 +2,7 @@
 
 ElectronGraph.py is a Python script designed to read data from a results file, process the data into a usable format, and visualize it through a graph.
 
-Steps Followed by the Program
+**Steps Followed by the Program**
 
 1. Reading the Data:
     - The script reads a results file and extracts relevant data points.
@@ -14,12 +14,12 @@ Steps Followed by the Program
 3. Plotting the Data:
     - The plot is customized with labels, a title, and a grid for better visualization.
 
-How to Use and Run the Program
+**How to Use and Run the Program**
 -Prerequisites:
 - Python 3.x installed on your machine.
 - Required Python libraries: `numpy`, `matplotlib`, and `scipy`, you can install the necessary libraries using pip: pip install numpy matplotlib scipy
 
-How to Run the Program:
+**How to Run the Program**
 
 - Prepare Your result files:
 Ensure you have four result files containing the data in the expected format (r= value and phi= value).
