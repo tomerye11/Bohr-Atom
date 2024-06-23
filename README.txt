@@ -1,4 +1,4 @@
-Overview
+**Overview**
 
 ElectronGraph.py is a Python script designed to read data from a results file, process the data into a usable format, and visualize it through a graph.
 
